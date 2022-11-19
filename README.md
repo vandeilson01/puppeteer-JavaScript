@@ -42,5 +42,5 @@ $ node index.js
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=KUPKAB2TYFVMS">Donate com  PayPal</a>
 
-<img style="width: 240px"src="https://user-images.githubusercontent.com/60020510/202829913-fee0612a-6e45-4ecb-96eb-3b5897115185.jpg" />
+<img style="width: 240px" src="https://user-images.githubusercontent.com/60020510/202829913-fee0612a-6e45-4ecb-96eb-3b5897115185.jpg" />
 
