@@ -1,14 +1,14 @@
 <h1 align="center"> 
-	 Raspagem de Dados 🚀
+	 Data scraping 🚀
 </h1>
 
-## :hammer: Funcionalidade
+## :hammer: Functionality
 
- Este algoritmo tem como funcionalidade a raspagem de dados, dado como exemplo o site do Mercado Livre.
+This algorithm has the functionality of data scraping, given the example of the Mercado Livre website.
 
-**📁 Acesso ao projeto**
+**📁 Project access**
 
-**Baixar projeto por GIT**
+**Download project**
 
 ```
 
@@ -17,7 +17,7 @@ $ git clone https://github.com/vandeilson01/puppeter-JavaScript.git
 ```
 
 
-## 🛠️ Rodar o código
+## 🛠️ run the code
 
 
 ```
@@ -26,7 +26,7 @@ $ npm install
 $ node index.js
 ```
 
-## 📷 Execução
+## 📷 Execution
 
 <img src="https://user-images.githubusercontent.com/60020510/202826567-a348c495-bb5c-47db-acbb-e2f81a17b95a.png">
 
@@ -38,9 +38,9 @@ $ node index.js
 
 ## Donate
 
-<h4>😊 As doações são muito importantes.</h4>
+<h4>😊 Donations are very important.</h4>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=KUPKAB2TYFVMS">Donate com  PayPal</a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=KUPKAB2TYFVMS">Donate with PayPal</a>
 
 <img style="width: 240px" src="https://user-images.githubusercontent.com/60020510/202829913-fee0612a-6e45-4ecb-96eb-3b5897115185.jpg" />
 
