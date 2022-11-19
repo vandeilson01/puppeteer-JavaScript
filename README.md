@@ -36,6 +36,9 @@ $ node index.js
 
 <img src="https://user-images.githubusercontent.com/60020510/202826576-d3b2514f-cd3d-4417-8ec4-b84b9721b797.png">
 
+## Donate
 
+<h4>😊 As doações são muito importantes.</h4>
 
+<a href="https://www.paypal.com/donate/?hosted_button_id=KUPKAB2TYFVMS">Donate com  PayPal</a>
 
